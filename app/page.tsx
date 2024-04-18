@@ -1,5 +1,4 @@
-import { Main, Section, Container } from "@/components/craft";
-import Balancer from "react-wrap-balancer";
+import { Main } from "@/components/craft";
 import Hero from "@/components/hero";
 import Feature from "@/components/feature";
 import Testimonials from "@/components/testimonials";

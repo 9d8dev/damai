@@ -9,7 +9,7 @@ const Feature = () => {
   return (
     <Craft.Section className="border-b">
       <Craft.Container className="grid md:grid-cols-2 md:gap-12 items-stretch">
-        <div className="flex flex-col gap-6 py-8">
+        <div className="flex flex-col gap-6">
           <h3 className="!my-0">
             Our dedication to excellence and meticulous matching process enables
             us to forge rewarding career connections.
