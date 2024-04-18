@@ -2,7 +2,7 @@ import * as Craft from "@/components/craft";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import Image from "next/image";
-import Placeholder from "@/public/home.png";
+import Placeholder from "@/public/adjei.jpg";
 
 const Feature = () => {
   return (

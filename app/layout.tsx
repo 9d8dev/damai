@@ -90,18 +90,11 @@ const Footer = () => {
               <Balancer>This is a description.</Balancer>
             </p>
             <div className="flex gap-4 underline underline-offset-4 text-sm text-muted-foreground">
-              <Link href="https://www.digitalsitetransparency.com/privacy-policy/index.html">
-                Privacy Policy
-              </Link>
-              <Link href="https://www.digitalsitetransparency.com/terms-of-use/index.html">
-                Terms of Service
-              </Link>
-              <Link href="https://www.digitalsitetransparency.com/do-not-sell/index.html">
-                Do Not Sell
-              </Link>
+              <Link href="#">Privacy Policy</Link>
+              <Link href="#">Terms of Service</Link>
             </div>
             <p className="text-muted-foreground">
-              © All Consumer. All rights reserved. 2023-present.
+              © Damai Global LLC. All rights reserved. 2023-present.
             </p>
           </div>
         </Container>

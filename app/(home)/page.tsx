@@ -1,7 +1,7 @@
 import { Main } from "@/components/craft";
-import Hero from "@/components/hero";
-import Feature from "@/components/feature";
-import Testimonials from "@/components/testimonials";
+import Hero from "./hero";
+import Feature from "./feature";
+import Testimonials from "./testimonials";
 
 export default function Home() {
   return (
