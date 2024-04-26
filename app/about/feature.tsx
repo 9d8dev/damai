@@ -24,9 +24,9 @@ const Feature = () => {
             fulfilling and enriching professional journey. To begin this
             endeavor, Carl made the decision to hire our first employee, a
             skilled individual based in Accra, Ghana, who worked remotely to
-            support Carl's podiatry practice. This momentous step marked the
-            birth of Damai Global LLC, a company founded on the principles of
-            connecting talented individuals worldwide to meaningful career
+            support Carl&apos;s podiatry practice. This momentous step marked
+            the birth of Damai Global LLC, a company founded on the principles
+            of connecting talented individuals worldwide to meaningful career
             opportunities in the US.
           </p>
           <div className="not-prose flex items-center gap-2">

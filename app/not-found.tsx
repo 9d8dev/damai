@@ -16,11 +16,11 @@ export default function Home() {
             </Link>
           </Badge>
           <h1 className="!mb-0">
-            Uh oh! The page you're looking for doesn't exist.
+            Uh oh! The page you&apos;re looking for doesn&apos;t exist.
           </h1>
           <h3 className="text-muted-foreground p-4 bg-muted/50 border rounded-md">
             See the links in the navigation bar or the footer to find a page
-            you're looking for.
+            you&apos;re looking for.
           </h3>
 
           <div className="flex gap-4">
