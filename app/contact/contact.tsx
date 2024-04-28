@@ -9,7 +9,7 @@ export function Contact() {
         <h2 className="text-2xl md:text-4xl">Contact Us!</h2>
         <p className="text-lg md:text-2xl opacity-70">
           <Balancer>
-            Send us an email and we'll get back to you as soon as possible.
+            Send us an email and we&apos;ll get back to you as soon as possible.
           </Balancer>
         </p>
         <p>
