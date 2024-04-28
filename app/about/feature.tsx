@@ -16,7 +16,7 @@ const Feature = () => {
           />
         </div>
         <div className="flex flex-col gap-6">
-          <h3 className="!my-0">Our Story</h3>
+          <h3 className="!my-0 md:text-2xl">Our Story</h3>
           <p className="font-light leading-[1.4] opacity-70">
             After cultivating deep friendships with ambitious and talented
             individuals across the globe, our founders, Carl and Kim Van Gils,
@@ -31,10 +31,10 @@ const Feature = () => {
           </p>
           <div className="not-prose flex items-center gap-2">
             <Button className="w-fit" asChild>
-              <Link href="#">Get Started</Link>
+              <Link href="/contact">Contact Us</Link>
             </Button>
             <Button className="w-fit" variant="link" asChild>
-              <Link href="#">Learn More</Link>
+              <Link href="/employers">Learn More</Link>
             </Button>
           </div>
         </div>

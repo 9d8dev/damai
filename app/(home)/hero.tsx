@@ -11,8 +11,8 @@ const Hero = () => {
       <Craft.Container>
         <div className="not-prose flex flex-col gap-6">
           <Button asChild className="w-fit" size={"sm"} variant={"outline"}>
-            <Link href="https://9d8.dev">
-              Get started <ArrowRight className="w-4" />
+            <Link href="/contact">
+              Contact Us <ArrowRight className="w-4" />
             </Link>
           </Button>
           <h1 className="text-primary-500 text-4xl md:text-6xl">

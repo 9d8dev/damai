@@ -13,7 +13,7 @@ const Contact = () => {
               Ready to elevate your team with top-tier offshore talent?
             </Balancer>
           </h3>
-          <h4 className="text-2xl opacity-70">
+          <h4 className="md:text-2xl opacity-70">
             <Balancer>
               Contact Damai Global today to learn how we can help you thrive in
               the ever-evolving landscape of US healthcare.
@@ -21,7 +21,7 @@ const Contact = () => {
           </h4>
           <div className="flex items-center gap-2">
             <Button className="w-fit" asChild>
-              <Link href="#">Contact Us</Link>
+              <Link href="/contact">Contact Us</Link>
             </Button>
             <Button className="w-fit" variant="link" asChild>
               <Link href="/about">About Us</Link>

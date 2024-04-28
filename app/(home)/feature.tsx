@@ -9,7 +9,7 @@ const Feature = () => {
     <Craft.Section className="border-b">
       <Craft.Container className="grid md:grid-cols-2 md:gap-12 items-stretch">
         <div className="flex flex-col gap-6">
-          <h3 className="!my-0">
+          <h3 className="!my-0 md:text-2xl">
             Our dedication to excellence and meticulous matching process enables
             us to forge rewarding career connections.
           </h3>
@@ -24,14 +24,14 @@ const Feature = () => {
           </p>
           <div className="not-prose flex items-center gap-2">
             <Button className="w-fit" asChild>
-              <Link href="#">Get Started</Link>
+              <Link href="/contact">Contact Us</Link>
             </Button>
             <Button className="w-fit" variant="link" asChild>
-              <Link href="#">Learn More</Link>
+              <Link href="/employers">Learn More</Link>
             </Button>
           </div>
         </div>
-        <div className="not-prose border relative rounded-lg overflow-hidden flex h-96">
+        <div className="not-prose border relative rounded-lg overflow-hidden flex h-96 mt-6 md:mt-0">
           <Image
             src={Placeholder}
             alt="placeholder"
